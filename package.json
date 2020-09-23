@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catcto/video-url-link.git"
+    "url": "git+https://github.com/MekiLoeWangi/VIDEO.git"
   },
   "keywords": [
     "video downloader",
@@ -22,9 +22,9 @@
   "author": "catcto (https://github.com/catcto)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/catcto/video-url-link/issues"
+    "url": "https://github.com/MekiLoeWangi/VIDEO/issues"
   },
-  "homepage": "https://github.com/catcto/video-url-link#readme",
+  "homepage": "https://github.com/MekiLoeWangi/VIDEO#readme",
   "devDependencies": {
     "mocha": "^6.1.4"
   },
